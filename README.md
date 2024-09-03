@@ -18,7 +18,8 @@ This is the Github page of Shaocong Ma(Jack).
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=ME-Msc&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
   
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Msc&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10" />
-  <br/>
+  <!-- https://github.com/anuraghazra/github-readme-stats 
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ME-Msc&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=10" />
+    <br/>
+  -->
 </p>
