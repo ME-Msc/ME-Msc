@@ -15,10 +15,23 @@ This is Shaocong Ma(Yousuf) 's Github page.
 
 
 <p align="center">
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Profile -->
   <img
-    align="left"
-    width="400"
-    src="https://github-readme-stats.vercel.app/api?username=ME-Msc&theme=transparent&show_icons=true&hide_border=true&hide_title=true&hide=contribs"
+    align="center"
+    width="500"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ME-Msc&theme=github"
+  />
+</p>
+
+<p align="center">
+  <!-- Top language by repo -->
+  <img
+    width="250"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ME-Msc&theme=github"
+  />
+  <!-- Stats -->
+  <img
+    width="250"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ME-Msc&theme=github"
   />
 </p>
