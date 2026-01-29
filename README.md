@@ -6,11 +6,11 @@
 ![Static Badge](https://img.shields.io/badge/Java--brown?logo=openjdk&style=plastic)
 ![Static Badge](https://img.shields.io/badge/Go--00ADD8?logo=go&style=plastic)
 
-This is Shaocong Ma(Jack) 's Github page.
+This is Shaocong Ma(Yousuf) 's Github page.
 
-- 📖 Pursuing MSc in CS at the Nanjing University.
-- 🎓 Researching Multi-agent Systems, Swarm of drones, Domain Specific Language.
-- 💡 Have a wide interest in UAV, DSL, RL, and LLM applications, ...
+- 📖 PhD student in Robotics at the Khalifa University.
+- 🎓 Researching Multi-agent Systems, Domain Specific Language.
+- 💡 Have a wide interest in RDDL, RL, and LLM applications, ...
 - 👀 Open to collaborating on new projects.
 
 
